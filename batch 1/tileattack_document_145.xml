@@ -1,0 +1,1878 @@
+<?xml version="1.0" ?>
+<dalidoc>
+  
+
+  <header>
+    
+ 
+    <fileDesc>
+      
+  
+      <titleStmt>
+        
+   
+        <title>Discuss the advantages and disadvantages of ETFs (Exchange Traded</title>
+        
+   
+        <author>unknown</author>
+        
+  
+      </titleStmt>
+      
+  
+      <categoryStmt>QMULStudentReports</categoryStmt>
+      
+  
+      <difficultyStmt>D</difficultyStmt>
+      
+  
+      <publicationStmt>
+        
+   
+        <miscsource>Queen Mary MSc Student Reports</miscsource>
+        
+   
+        <availability>Publically available</availability>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </publicationStmt>
+      
+  
+      <sourceDesc>
+        
+   
+        <filename>data\game\DALI-STUDENT-REPORTS\QMUL_Student_Reports\reports_05.txt</filename>
+        
+   
+        <date>19 June 2018</date>
+        
+  
+      </sourceDesc>
+      
+ 
+    </fileDesc>
+    
+ 
+    <revisionDesc>
+      
+  
+      <change>
+        
+   
+        <date>19 June 2018</date>
+        
+   
+        <respStmt>
+          
+    
+          <name>Juntao Yu</name>
+          
+    
+          <resp>Automatic Processing</resp>
+          
+   
+        </respStmt>
+        
+   
+        <TEIitem>Sentence split, tokenization, pos tagging, mention extraction, named entity recoganation and mention haed findding</TEIitem>
+        
+  
+      </change>
+      
+ 
+    </revisionDesc>
+    
+
+  </header>
+  
+
+  <primaryData end="1079" start="0">
+    
+
+    <textualContent>
+Launched in Canada in 1990, and three years later in the US market to track the performance of the S&amp;P500, exchange traded funds   also known as ETFs   were created to open broader investment opportunities and help investors diversify their portfolios by allowing them to  trade the market . Through this financial product, instead of buying every stock in the index, investors can choose to buy units in one fund, which gives them diversified exposure and protects them from the firm s specific risk. Today, ETFs are priced and traded on an exchange, which gives investors access to various asset classes and allows them to quickly enter and exit positions. The fact that exchange traded funds have become very in demand and liquid in the past few years, where global ETF assets increased from $800bn 10 years ago to $4.2tn at the end of August 2017, makes them a subject of study in the finance industry. In this report, we will assess the rewards and drawbacks of exchange traded funds by presenting real market evidence and evaluating their effects on portfolios  performance
+</textualContent>
+    
+
+  </primaryData>
+  
+
+  <baseLayer>
+    
+ 
+    <W Lpos="VBN" att_score="37.694996" end="8" id="w0" start="0">Launched</W>
+    
+ 
+    <W Lpos="IN" att_score="2.1992483" end="11" id="w1" start="9">in</W>
+    
+ 
+    <W Lpos="NNP" att_score="23.468212" end="18" id="w2" start="12">Canada</W>
+    
+ 
+    <W Lpos="IN" att_score="-11.987484" end="21" id="w3" start="19">in</W>
+    
+ 
+    <W Lpos="CD" att_score="-9.768441" end="26" id="w4" start="22">1990</W>
+    
+ 
+    <W Lpos="," att_score="-18.651344" end="27" id="w5" start="26">,</W>
+    
+ 
+    <W Lpos="CC" att_score="-17.096401" end="31" id="w6" start="28">and</W>
+    
+ 
+    <W Lpos="CD" att_score="-5.6574736" end="37" id="w7" start="32">three</W>
+    
+ 
+    <W Lpos="NNS" att_score="22.917618" end="43" id="w8" start="38">years</W>
+    
+ 
+    <W Lpos="RB" att_score="-7.632368" end="49" id="w9" start="44">later</W>
+    
+ 
+    <W Lpos="IN" att_score="19.142582" end="52" id="w10" start="50">in</W>
+    
+ 
+    <W Lpos="DT" att_score="-25.421844" end="56" id="w11" start="53">the</W>
+    
+ 
+    <W Lpos="NNP" att_score="-7.0001006" end="59" id="w12" start="57">US</W>
+    
+ 
+    <W Lpos="NN" att_score="23.578945" end="66" id="w13" start="60">market</W>
+    
+ 
+    <W Lpos="TO" att_score="-1.1905727" end="69" id="w14" start="67">to</W>
+    
+ 
+    <W Lpos="VB" att_score="23.42696" end="75" id="w15" start="70">track</W>
+    
+ 
+    <W Lpos="DT" att_score="-17.185585" end="79" id="w16" start="76">the</W>
+    
+ 
+    <W Lpos="NN" att_score="26.43259" end="91" id="w17" start="80">performance</W>
+    
+ 
+    <W Lpos="IN" att_score="-5.1538334" end="94" id="w18" start="92">of</W>
+    
+ 
+    <W Lpos="DT" att_score="-25.617271" end="98" id="w19" start="95">the</W>
+    
+ 
+    <W Lpos="NNP" att_score="-3.1452541" end="102" id="w20" start="99">S&amp;P</W>
+    
+ 
+    <W Lpos="CD" att_score="-24.908207" end="105" id="w21" start="102">500</W>
+    
+ 
+    <W Lpos="," att_score="-21.995125" end="106" id="w22" start="105">,</W>
+    
+ 
+    <W Lpos="NN" att_score="-12.321286" end="115" id="w23" start="107">exchange</W>
+    
+ 
+    <W Lpos="VBD" att_score="-16.031715" end="122" id="w24" start="116">traded</W>
+    
+ 
+    <W Lpos="NNS" att_score="15.363477" end="128" id="w25" start="123">funds</W>
+    
+ 
+    <W Lpos="RB" att_score="-17.956217" end="135" id="w26" start="131">also</W>
+    
+ 
+    <W Lpos="VBN" att_score="-14.274238" end="141" id="w27" start="136">known</W>
+    
+ 
+    <W Lpos="IN" att_score="-28.542595" end="144" id="w28" start="142">as</W>
+    
+ 
+    <W Lpos="NNS" att_score="-9.663302" end="149" id="w29" start="145">ETFs</W>
+    
+ 
+    <W Lpos="VBD" att_score="5.4481306" end="156" id="w30" start="152">were</W>
+    
+ 
+    <W Lpos="VBN" att_score="-12.78927" end="164" id="w31" start="157">created</W>
+    
+ 
+    <W Lpos="TO" att_score="-21.318737" end="167" id="w32" start="165">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-31.76649" end="172" id="w33" start="168">open</W>
+    
+ 
+    <W Lpos="JJR" att_score="-47.349514" end="180" id="w34" start="173">broader</W>
+    
+ 
+    <W Lpos="NN" att_score="-24.290668" end="191" id="w35" start="181">investment</W>
+    
+ 
+    <W Lpos="NNS" att_score="-1.2888625" end="205" id="w36" start="192">opportunities</W>
+    
+ 
+    <W Lpos="CC" att_score="-31.413364" end="209" id="w37" start="206">and</W>
+    
+ 
+    <W Lpos="NN" att_score="-30.864487" end="214" id="w38" start="210">help</W>
+    
+ 
+    <W Lpos="NNS" att_score="-15.211875" end="224" id="w39" start="215">investors</W>
+    
+ 
+    <W Lpos="VB" att_score="-0.6850271" end="234" id="w40" start="225">diversify</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-26.492489" end="240" id="w41" start="235">their</W>
+    
+ 
+    <W Lpos="NNS" att_score="-3.6246214" end="251" id="w42" start="241">portfolios</W>
+    
+ 
+    <W Lpos="IN" att_score="-19.20145" end="254" id="w43" start="252">by</W>
+    
+ 
+    <W Lpos="VBG" att_score="-20.286716" end="263" id="w44" start="255">allowing</W>
+    
+ 
+    <W Lpos="PRP" att_score="-33.287758" end="268" id="w45" start="264">them</W>
+    
+ 
+    <W Lpos="TO" att_score="-41.379517" end="271" id="w46" start="269">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-42.20478" end="278" id="w47" start="273">trade</W>
+    
+ 
+    <W Lpos="DT" att_score="-70.483475" end="282" id="w48" start="279">the</W>
+    
+ 
+    <W Lpos="NN" att_score="-37.861576" end="289" id="w49" start="283">market</W>
+    
+ 
+    <W Lpos="." att_score="-41.633118" end="291" id="w50" start="290">.</W>
+    
+ 
+    <W Lpos="IN" att_score="26.86491" end="299" id="w51" start="292">Through</W>
+    
+ 
+    <W Lpos="DT" att_score="11.419932" end="304" id="w52" start="300">this</W>
+    
+ 
+    <W Lpos="JJ" att_score="11.953929" end="314" id="w53" start="305">financial</W>
+    
+ 
+    <W Lpos="NN" att_score="45.90014" end="322" id="w54" start="315">product</W>
+    
+ 
+    <W Lpos="," att_score="1.502305" end="323" id="w55" start="322">,</W>
+    
+ 
+    <W Lpos="RB" att_score="22.035934" end="331" id="w56" start="324">instead</W>
+    
+ 
+    <W Lpos="IN" att_score="3.6302166" end="334" id="w57" start="332">of</W>
+    
+ 
+    <W Lpos="VBG" att_score="20.690338" end="341" id="w58" start="335">buying</W>
+    
+ 
+    <W Lpos="DT" att_score="-4.0602427" end="347" id="w59" start="342">every</W>
+    
+ 
+    <W Lpos="NN" att_score="26.323486" end="353" id="w60" start="348">stock</W>
+    
+ 
+    <W Lpos="IN" att_score="-1.5749285" end="356" id="w61" start="354">in</W>
+    
+ 
+    <W Lpos="DT" att_score="-21.567257" end="360" id="w62" start="357">the</W>
+    
+ 
+    <W Lpos="NN" att_score="15.67653" end="366" id="w63" start="361">index</W>
+    
+ 
+    <W Lpos="," att_score="-17.874947" end="367" id="w64" start="366">,</W>
+    
+ 
+    <W Lpos="NNS" att_score="13.696046" end="377" id="w65" start="368">investors</W>
+    
+ 
+    <W Lpos="MD" att_score="-11.473657" end="381" id="w66" start="378">can</W>
+    
+ 
+    <W Lpos="VB" att_score="5.199689" end="388" id="w67" start="382">choose</W>
+    
+ 
+    <W Lpos="TO" att_score="-11.261787" end="391" id="w68" start="389">to</W>
+    
+ 
+    <W Lpos="VB" att_score="-1.9734364" end="395" id="w69" start="392">buy</W>
+    
+ 
+    <W Lpos="NNS" att_score="26.605217" end="401" id="w70" start="396">units</W>
+    
+ 
+    <W Lpos="IN" att_score="-10.855513" end="404" id="w71" start="402">in</W>
+    
+ 
+    <W Lpos="CD" att_score="-15.524114" end="408" id="w72" start="405">one</W>
+    
+ 
+    <W Lpos="NN" att_score="16.921715" end="413" id="w73" start="409">fund</W>
+    
+ 
+    <W Lpos="," att_score="-23.4915" end="414" id="w74" start="413">,</W>
+    
+ 
+    <W Lpos="WDT" att_score="-37.575108" end="420" id="w75" start="415">which</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-2.2976487" end="426" id="w76" start="421">gives</W>
+    
+ 
+    <W Lpos="PRP" att_score="-11.998056" end="431" id="w77" start="427">them</W>
+    
+ 
+    <W Lpos="JJ" att_score="-19.461487" end="443" id="w78" start="432">diversified</W>
+    
+ 
+    <W Lpos="NN" att_score="2.1001954" end="452" id="w79" start="444">exposure</W>
+    
+ 
+    <W Lpos="CC" att_score="-30.145271" end="456" id="w80" start="453">and</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-11.383869" end="465" id="w81" start="457">protects</W>
+    
+ 
+    <W Lpos="PRP" att_score="-23.138714" end="470" id="w82" start="466">them</W>
+    
+ 
+    <W Lpos="IN" att_score="-45.40962" end="475" id="w83" start="471">from</W>
+    
+ 
+    <W Lpos="DT" att_score="-81.47028" end="479" id="w84" start="476">the</W>
+    
+ 
+    <W Lpos="JJ" att_score="-60.35274" end="484" id="w85" start="480">firm</W>
+    
+ 
+    <W Lpos="NN" att_score="-54.521023" end="486" id="w86" start="485">s</W>
+    
+ 
+    <W Lpos="JJ" att_score="-38.42961" end="495" id="w87" start="487">specific</W>
+    
+ 
+    <W Lpos="NN" att_score="-23.1922" end="500" id="w88" start="496">risk</W>
+    
+ 
+    <W Lpos="." att_score="-33.362976" end="501" id="w89" start="500">.</W>
+    
+ 
+    <W Lpos="NN" att_score="21.77047" end="507" id="w90" start="502">Today</W>
+    
+ 
+    <W Lpos="," att_score="-2.9207957" end="508" id="w91" start="507">,</W>
+    
+ 
+    <W Lpos="NNS" att_score="18.109299" end="513" id="w92" start="509">ETFs</W>
+    
+ 
+    <W Lpos="VBP" att_score="8.194489" end="517" id="w93" start="514">are</W>
+    
+ 
+    <W Lpos="VBN" att_score="14.06524" end="524" id="w94" start="518">priced</W>
+    
+ 
+    <W Lpos="CC" att_score="0.030446053" end="528" id="w95" start="525">and</W>
+    
+ 
+    <W Lpos="VBN" att_score="24.3157" end="535" id="w96" start="529">traded</W>
+    
+ 
+    <W Lpos="IN" att_score="13.369935" end="538" id="w97" start="536">on</W>
+    
+ 
+    <W Lpos="DT" att_score="-10.355242" end="541" id="w98" start="539">an</W>
+    
+ 
+    <W Lpos="NN" att_score="17.909386" end="550" id="w99" start="542">exchange</W>
+    
+ 
+    <W Lpos="," att_score="-13.896003" end="551" id="w100" start="550">,</W>
+    
+ 
+    <W Lpos="WDT" att_score="-38.59002" end="557" id="w101" start="552">which</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-17.573528" end="563" id="w102" start="558">gives</W>
+    
+ 
+    <W Lpos="NNS" att_score="-3.5478375" end="573" id="w103" start="564">investors</W>
+    
+ 
+    <W Lpos="NN" att_score="6.8977747" end="580" id="w104" start="574">access</W>
+    
+ 
+    <W Lpos="TO" att_score="-18.346958" end="583" id="w105" start="581">to</W>
+    
+ 
+    <W Lpos="JJ" att_score="-44.258705" end="591" id="w106" start="584">various</W>
+    
+ 
+    <W Lpos="NN" att_score="-25.586842" end="597" id="w107" start="592">asset</W>
+    
+ 
+    <W Lpos="NNS" att_score="-10.553325" end="605" id="w108" start="598">classes</W>
+    
+ 
+    <W Lpos="CC" att_score="-23.17118" end="609" id="w109" start="606">and</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-7.477949" end="616" id="w110" start="610">allows</W>
+    
+ 
+    <W Lpos="PRP" att_score="-23.218704" end="621" id="w111" start="617">them</W>
+    
+ 
+    <W Lpos="TO" att_score="-45.70468" end="624" id="w112" start="622">to</W>
+    
+ 
+    <W Lpos="RB" att_score="-54.089443" end="632" id="w113" start="625">quickly</W>
+    
+ 
+    <W Lpos="VB" att_score="-53.108753" end="638" id="w114" start="633">enter</W>
+    
+ 
+    <W Lpos="CC" att_score="-54.963085" end="642" id="w115" start="639">and</W>
+    
+ 
+    <W Lpos="VB" att_score="-39.6947" end="647" id="w116" start="643">exit</W>
+    
+ 
+    <W Lpos="NNS" att_score="-22.681747" end="657" id="w117" start="648">positions</W>
+    
+ 
+    <W Lpos="." att_score="-37.156666" end="658" id="w118" start="657">.</W>
+    
+ 
+    <W Lpos="DT" att_score="-3.3558722" end="662" id="w119" start="659">The</W>
+    
+ 
+    <W Lpos="NN" att_score="45.60684" end="667" id="w120" start="663">fact</W>
+    
+ 
+    <W Lpos="WDT" att_score="-3.2108688" end="672" id="w121" start="668">that</W>
+    
+ 
+    <W Lpos="VBP" att_score="8.892764" end="681" id="w122" start="673">exchange</W>
+    
+ 
+    <W Lpos="JJ" att_score="2.2797837" end="688" id="w123" start="682">traded</W>
+    
+ 
+    <W Lpos="NNS" att_score="24.144497" end="694" id="w124" start="689">funds</W>
+    
+ 
+    <W Lpos="VBP" att_score="6.984991" end="699" id="w125" start="695">have</W>
+    
+ 
+    <W Lpos="VBN" att_score="-0.019360065" end="706" id="w126" start="700">become</W>
+    
+ 
+    <W Lpos="RB" att_score="9.599086" end="711" id="w127" start="707">very</W>
+    
+ 
+    <W Lpos="IN" att_score="10.881352" end="714" id="w128" start="712">in</W>
+    
+ 
+    <W Lpos="NN" att_score="31.23349" end="721" id="w129" start="715">demand</W>
+    
+ 
+    <W Lpos="CC" att_score="-12.017962" end="725" id="w130" start="722">and</W>
+    
+ 
+    <W Lpos="NN" att_score="19.276081" end="732" id="w131" start="726">liquid</W>
+    
+ 
+    <W Lpos="IN" att_score="-13.8045" end="735" id="w132" start="733">in</W>
+    
+ 
+    <W Lpos="DT" att_score="-49.47808" end="739" id="w133" start="736">the</W>
+    
+ 
+    <W Lpos="JJ" att_score="-27.915588" end="744" id="w134" start="740">past</W>
+    
+ 
+    <W Lpos="JJ" att_score="-15.076913" end="748" id="w135" start="745">few</W>
+    
+ 
+    <W Lpos="NNS" att_score="6.9565573" end="754" id="w136" start="749">years</W>
+    
+ 
+    <W Lpos="," att_score="-21.64199" end="755" id="w137" start="754">,</W>
+    
+ 
+    <W Lpos="WRB" att_score="-34.74313" end="761" id="w138" start="756">where</W>
+    
+ 
+    <W Lpos="JJ" att_score="-43.66541" end="768" id="w139" start="762">global</W>
+    
+ 
+    <W Lpos="NN" att_score="-18.93187" end="772" id="w140" start="769">ETF</W>
+    
+ 
+    <W Lpos="NNS" att_score="2.8319645" end="779" id="w141" start="773">assets</W>
+    
+ 
+    <W Lpos="VBD" att_score="-14.099151" end="789" id="w142" start="780">increased</W>
+    
+ 
+    <W Lpos="IN" att_score="-40.203175" end="794" id="w143" start="790">from</W>
+    
+ 
+    <W Lpos="$" att_score="-38.73332" end="796" id="w144" start="795">$</W>
+    
+ 
+    <W Lpos="CD" att_score="-27.94624" end="801" id="w145" start="796">800bn</W>
+    
+ 
+    <W Lpos="CD" att_score="-31.064259" end="804" id="w146" start="802">10</W>
+    
+ 
+    <W Lpos="NNS" att_score="-6.4757338" end="810" id="w147" start="805">years</W>
+    
+ 
+    <W Lpos="RB" att_score="-37.88399" end="814" id="w148" start="811">ago</W>
+    
+ 
+    <W Lpos="TO" att_score="-34.141357" end="817" id="w149" start="815">to</W>
+    
+ 
+    <W Lpos="$" att_score="-22.055496" end="819" id="w150" start="818">$</W>
+    
+ 
+    <W Lpos="CD" att_score="-22.98634" end="822" id="w151" start="819">4.2</W>
+    
+ 
+    <W Lpos="NN" att_score="1.7265568" end="824" id="w152" start="822">tn</W>
+    
+ 
+    <W Lpos="IN" att_score="-5.8964405" end="827" id="w153" start="825">at</W>
+    
+ 
+    <W Lpos="DT" att_score="-40.11139" end="831" id="w154" start="828">the</W>
+    
+ 
+    <W Lpos="NN" att_score="-4.4651413" end="835" id="w155" start="832">end</W>
+    
+ 
+    <W Lpos="IN" att_score="-38.357178" end="838" id="w156" start="836">of</W>
+    
+ 
+    <W Lpos="NNP" att_score="-20.9207" end="845" id="w157" start="839">August</W>
+    
+ 
+    <W Lpos="CD" att_score="-12.731154" end="850" id="w158" start="846">2017</W>
+    
+ 
+    <W Lpos="," att_score="-29.376713" end="851" id="w159" start="850">,</W>
+    
+ 
+    <W Lpos="VBZ" att_score="-5.6576366" end="857" id="w160" start="852">makes</W>
+    
+ 
+    <W Lpos="PRP" att_score="-10.264117" end="862" id="w161" start="858">them</W>
+    
+ 
+    <W Lpos="DT" att_score="-39.678448" end="864" id="w162" start="863">a</W>
+    
+ 
+    <W Lpos="NN" att_score="-6.6060977" end="872" id="w163" start="865">subject</W>
+    
+ 
+    <W Lpos="IN" att_score="-39.311058" end="875" id="w164" start="873">of</W>
+    
+ 
+    <W Lpos="NN" att_score="-16.549892" end="881" id="w165" start="876">study</W>
+    
+ 
+    <W Lpos="IN" att_score="-47.173344" end="884" id="w166" start="882">in</W>
+    
+ 
+    <W Lpos="DT" att_score="-81.03469" end="888" id="w167" start="885">the</W>
+    
+ 
+    <W Lpos="NN" att_score="-57.32404" end="896" id="w168" start="889">finance</W>
+    
+ 
+    <W Lpos="NN" att_score="-36.067303" end="905" id="w169" start="897">industry</W>
+    
+ 
+    <W Lpos="." att_score="-40.98943" end="906" id="w170" start="905">.</W>
+    
+ 
+    <W Lpos="IN" att_score="4.834737" end="909" id="w171" start="907">In</W>
+    
+ 
+    <W Lpos="DT" att_score="2.8440275" end="914" id="w172" start="910">this</W>
+    
+ 
+    <W Lpos="NN" att_score="41.287556" end="921" id="w173" start="915">report</W>
+    
+ 
+    <W Lpos="," att_score="1.5572839" end="922" id="w174" start="921">,</W>
+    
+ 
+    <W Lpos="PRP" att_score="13.914802" end="925" id="w175" start="923">we</W>
+    
+ 
+    <W Lpos="MD" att_score="13.656575" end="930" id="w176" start="926">will</W>
+    
+ 
+    <W Lpos="VB" att_score="37.54733" end="937" id="w177" start="931">assess</W>
+    
+ 
+    <W Lpos="DT" att_score="-7.6700687" end="941" id="w178" start="938">the</W>
+    
+ 
+    <W Lpos="NNS" att_score="37.33256" end="949" id="w179" start="942">rewards</W>
+    
+ 
+    <W Lpos="CC" att_score="-4.4834113" end="953" id="w180" start="950">and</W>
+    
+ 
+    <W Lpos="NNS" att_score="29.012806" end="963" id="w181" start="954">drawbacks</W>
+    
+ 
+    <W Lpos="IN" att_score="0.41012716" end="966" id="w182" start="964">of</W>
+    
+ 
+    <W Lpos="NN" att_score="16.942963" end="975" id="w183" start="967">exchange</W>
+    
+ 
+    <W Lpos="VBD" att_score="-0.27293205" end="982" id="w184" start="976">traded</W>
+    
+ 
+    <W Lpos="NNS" att_score="22.613472" end="988" id="w185" start="983">funds</W>
+    
+ 
+    <W Lpos="IN" att_score="-11.746843" end="991" id="w186" start="989">by</W>
+    
+ 
+    <W Lpos="VBG" att_score="-24.122684" end="1002" id="w187" start="992">presenting</W>
+    
+ 
+    <W Lpos="JJ" att_score="-29.969643" end="1007" id="w188" start="1003">real</W>
+    
+ 
+    <W Lpos="NN" att_score="-8.199441" end="1014" id="w189" start="1008">market</W>
+    
+ 
+    <W Lpos="NN" att_score="14.839658" end="1023" id="w190" start="1015">evidence</W>
+    
+ 
+    <W Lpos="CC" att_score="-16.58008" end="1027" id="w191" start="1024">and</W>
+    
+ 
+    <W Lpos="VBG" att_score="5.210557" end="1038" id="w192" start="1028">evaluating</W>
+    
+ 
+    <W Lpos="PRP$" att_score="-29.857445" end="1044" id="w193" start="1039">their</W>
+    
+ 
+    <W Lpos="NNS" att_score="8.636363" end="1052" id="w194" start="1045">effects</W>
+    
+ 
+    <W Lpos="IN" att_score="-32.426147" end="1055" id="w195" start="1053">on</W>
+    
+ 
+    <W Lpos="NNS" att_score="-33.569508" end="1066" id="w196" start="1056">portfolios</W>
+    
+ 
+    <W Lpos="NN" att_score="-11.582365" end="1079" id="w197" start="1068">performance</W>
+    
+
+  </baseLayer>
+  
+
+  <layoutLayer>
+    
+ 
+    <layMarkable end="w197" id="l1" layType="section" start="w0"/>
+    
+ 
+    <layMarkable end="w197" id="l2" layType="p" start="w0"/>
+    
+ 
+    <layMarkable end="w50" id="l3" layType="s" start="w0"/>
+    
+ 
+    <layMarkable end="w89" id="l4" layType="s" start="w51"/>
+    
+ 
+    <layMarkable end="w118" id="l5" layType="s" start="w90"/>
+    
+ 
+    <layMarkable end="w170" id="l6" layType="s" start="w119"/>
+    
+ 
+    <layMarkable end="w197" id="l7" layType="s" start="w171"/>
+    
+
+  </layoutLayer>
+  
+
+  <markableLayer>
+    
+ 
+    <nh head="w2..w2">
+      
+  
+      <am id="am1" player="dalipipeline201806" span="w2..w2"/>
+      
+ 
+      <am id="am109" player="tileattack/gold" span="w2..w2"/>
+      <am id="am112" player="tileattack/aggregation/mpa" span="w2..w2"/>
+    </nh>
+    
+ 
+    <nh head="w4..w4">
+      
+  
+      <am id="am2" player="dalipipeline201806" span="w4..w4"/>
+      
+ 
+      <am id="am106" player="tileattack/gold" span="w4..w4"/>
+      <am id="am113" player="tileattack/aggregation/mpa" span="w4..w4"/>
+    </nh>
+    
+ 
+    <nh head="w8..w8">
+      
+  
+      <am id="am3" player="dalipipeline201806" span="w7..w8"/>
+      
+ 
+      <am id="am103" player="tileattack/gold" span="w7..w9"/>
+      <am id="am114" player="tileattack/aggregation/mpa" span="w7..w9"/>
+    </nh>
+    
+ 
+    <nh head="w12..w12">
+      
+  
+      <am id="am4" player="dalipipeline201806" span="w12..w12"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w13..w13">
+      
+  
+      <am id="am5" player="dalipipeline201806" span="w7..w13"/>
+      
+  
+      <am id="am6" player="dalipipeline201806" span="w11..w13"/>
+      
+ 
+      <am id="am108" player="tileattack/gold" span="w11..w13"/>
+      <am id="am115" player="tileattack/aggregation/mpa" span="w11..w13"/>
+    </nh>
+    
+ 
+    <nh head="w17..w17">
+      
+  
+      <am id="am7" player="dalipipeline201806" span="w16..w21"/>
+      
+  
+      <am id="am8" player="dalipipeline201806" span="w16..w36"/>
+      
+ 
+      <am id="am102" player="tileattack/gold" span="w16..w21"/>
+      <am id="am116" player="tileattack/aggregation/mpa" span="w16..w21"/>
+    </nh>
+    
+ 
+    <nh head="w20..w20">
+      
+  
+      <am id="am9" player="dalipipeline201806" span="w19..w21"/>
+      
+  
+      <am id="am10" player="dalipipeline201806" span="w20..w20"/>
+      
+  
+      <am id="am11" player="dalipipeline201806" span="w20..w21"/>
+      
+ 
+      <am id="am111" player="tileattack/gold" span="w19..w21"/>
+      <am id="am117" player="tileattack/aggregation/mpa" span="w19..w21"/>
+    </nh>
+    
+ 
+    <nh head="w23..w23">
+      
+  
+      <am id="am12" player="dalipipeline201806" span="w23..w23"/>
+      
+ 
+      <am id="am118" player="tileattack/aggregation/mpa" span="w23..w23"/>
+    </nh>
+    
+ 
+    <nh head="w25..w25">
+      
+  
+      <am id="am13" player="dalipipeline201806" span="w23..w25"/>
+      
+  
+      <am id="am14" player="dalipipeline201806" span="w23..w29"/>
+      
+ 
+      <am id="am99" player="tileattack/gold" span="w23..w29"/>
+      <am id="am119" player="tileattack/aggregation/mpa" span="w23..w25"/>
+    </nh>
+    
+ 
+    <nh head="w29..w29">
+      
+  
+      <am id="am15" player="dalipipeline201806" span="w29..w29"/>
+      
+ 
+      <am id="am105" player="tileattack/gold" span="w29..w29"/>
+      <am id="am120" player="tileattack/aggregation/mpa" span="w29..w29"/>
+    </nh>
+    
+ 
+    <nh head="w35..w35">
+      
+  
+      <am id="am16" player="dalipipeline201806" span="w34..w35"/>
+      
+  
+      <am id="am17" player="dalipipeline201806" span="w35..w35"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w36..w36">
+      
+  
+      <am id="am18" player="dalipipeline201806" span="w34..w36"/>
+      
+ 
+      <am id="am110" player="tileattack/gold" span="w34..w36"/>
+      <am id="am121" player="tileattack/aggregation/mpa" span="w34..w36"/>
+    </nh>
+    
+ 
+    <nh head="w39..w39">
+      
+  
+      <am id="am19" player="dalipipeline201806" span="w39..w39"/>
+      
+ 
+      <am id="am100" player="tileattack/gold" span="w39..w39"/>
+      <am id="am122" player="tileattack/aggregation/mpa" span="w39..w39"/>
+    </nh>
+    
+ 
+    <nh head="w41..w41">
+      
+  
+      <am id="am20" player="dalipipeline201806" span="w41..w41"/>
+      
+ 
+      <am id="am107" player="tileattack/gold" span="w41..w41"/>
+      <am id="am123" player="tileattack/aggregation/mpa" span="w41..w41"/>
+    </nh>
+    
+ 
+    <nh head="w42..w42">
+      
+  
+      <am id="am21" player="dalipipeline201806" span="w41..w42"/>
+      
+ 
+      <am id="am101" player="tileattack/gold" span="w41..w42"/>
+      <am id="am124" player="tileattack/aggregation/mpa" span="w41..w42"/>
+    </nh>
+    
+ 
+    <nh head="w45..w45">
+      
+  
+      <am id="am22" player="dalipipeline201806" span="w45..w45"/>
+      
+ 
+      <am id="am98" player="tileattack/gold" span="w45..w45"/>
+      <am id="am125" player="tileattack/aggregation/mpa" span="w45..w45"/>
+    </nh>
+    
+ 
+    <nh head="w49..w49">
+      
+  
+      <am id="am23" player="dalipipeline201806" span="w48..w49"/>
+      
+ 
+      <am id="am104" player="tileattack/gold" span="w48..w49"/>
+      <am id="am126" player="tileattack/aggregation/mpa" span="w48..w49"/>
+    </nh>
+    
+ 
+    <nh head="w54..w54">
+      
+  
+      <am id="am24" player="dalipipeline201806" span="w52..w54"/>
+      
+  
+      <am id="am25" player="dalipipeline201806" span="w52..w63"/>
+      
+ 
+      <am id="am127" player="tileattack/gold" span="w52..w54"/>
+      <am id="am140" player="tileattack/aggregation/mpa" span="w52..w54"/>
+    </nh>
+    
+ 
+    <nh head="w60..w60">
+      
+  
+      <am id="am26" player="dalipipeline201806" span="w58..w63"/>
+      
+  
+      <am id="am27" player="dalipipeline201806" span="w59..w60"/>
+      
+  
+      <am id="am28" player="dalipipeline201806" span="w59..w63"/>
+      
+  
+      <am id="am29" player="dalipipeline201806" span="w60..w60"/>
+      
+ 
+      <am id="am134" player="tileattack/gold" span="w59..w63"/>
+      <am id="am141" player="tileattack/aggregation/mpa" span="w59..w63"/>
+    </nh>
+    
+ 
+    <nh head="w63..w63">
+      
+  
+      <am id="am30" player="dalipipeline201806" span="w62..w63"/>
+      
+ 
+      <am id="am133" player="tileattack/gold" span="w62..w63"/>
+      <am id="am142" player="tileattack/aggregation/mpa" span="w62..w63"/>
+    </nh>
+    
+ 
+    <nh head="w65..w65">
+      
+  
+      <am id="am31" player="dalipipeline201806" span="w65..w65"/>
+      
+ 
+      <am id="am137" player="tileattack/gold" span="w65..w65"/>
+      <am id="am143" player="tileattack/aggregation/mpa" span="w65..w65"/>
+    </nh>
+    
+ 
+    <nh head="w70..w70">
+      
+  
+      <am id="am32" player="dalipipeline201806" span="w70..w88"/>
+      
+ 
+      <am id="am130" player="tileattack/gold" span="w70..w88"/>
+      <am id="am132" player="tileattack/gold" span="w70..w73"/>
+      <am id="am144" player="tileattack/aggregation/mpa" span="w70..w70"/>
+    </nh>
+    
+ 
+    <nh head="w73..w73">
+      
+  
+      <am id="am33" player="dalipipeline201806" span="w72..w73"/>
+      
+  
+      <am id="am34" player="dalipipeline201806" span="w72..w88"/>
+      
+ 
+      <am id="am135" player="tileattack/gold" span="w72..w73"/>
+      <am id="am145" player="tileattack/aggregation/mpa" span="w72..w73"/>
+    </nh>
+    
+ 
+    <nh head="w75..w75">
+      
+  
+      <am id="am35" player="dalipipeline201806" span="w75..w75"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w77..w77">
+      
+  
+      <am id="am36" player="dalipipeline201806" span="w77..w77"/>
+      
+ 
+      <am id="am128" player="tileattack/gold" span="w77..w77"/>
+      <am id="am146" player="tileattack/aggregation/mpa" span="w77..w77"/>
+    </nh>
+    
+ 
+    <nh head="w79..w79">
+      
+  
+      <am id="am37" player="dalipipeline201806" span="w78..w79"/>
+      
+  
+      <am id="am38" player="dalipipeline201806" span="w78..w81"/>
+      
+ 
+      <am id="am138" player="tileattack/gold" span="w78..w79"/>
+      <am id="am147" player="tileattack/aggregation/mpa" span="w78..w79"/>
+    </nh>
+    
+ 
+    <nh head="w82..w82">
+      
+  
+      <am id="am39" player="dalipipeline201806" span="w82..w82"/>
+      
+ 
+      <am id="am139" player="tileattack/gold" span="w82..w82"/>
+      <am id="am148" player="tileattack/aggregation/mpa" span="w82..w82"/>
+    </nh>
+    
+ 
+    <nh head="w85..w85">
+      
+  
+      <am id="am40" player="dalipipeline201806" span="w84..w85"/>
+      
+ 
+      <am id="am131" player="tileattack/gold" span="w85..w86"/>
+      <am id="am149" player="tileattack/aggregation/mpa" span="w84..w85"/>
+    </nh>
+    
+ 
+    <nh head="w86..w86">
+      
+  
+      <am id="am41" player="dalipipeline201806" span="w84..w86"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w88..w88">
+      
+  
+      <am id="am42" player="dalipipeline201806" span="w84..w88"/>
+      
+  
+      <am id="am43" player="dalipipeline201806" span="w87..w88"/>
+      
+ 
+      <am id="am129" player="tileattack/gold" span="w87..w88"/>
+      <am id="am136" player="tileattack/gold" span="w84..w88"/>
+      <am id="am150" player="tileattack/aggregation/mpa" span="w87..w88"/>
+    </nh>
+    
+ 
+    <nh head="w90..w90">
+      
+  
+      <am id="am44" player="dalipipeline201806" span="w90..w90"/>
+      
+ 
+      <am id="am151" player="tileattack/gold" span="w90..w90"/>
+      <am id="am160" player="tileattack/aggregation/mpa" span="w90..w90"/>
+    </nh>
+    
+ 
+    <nh head="w92..w92">
+      
+  
+      <am id="am45" player="dalipipeline201806" span="w92..w92"/>
+      
+ 
+      <am id="am157" player="tileattack/gold" span="w92..w92"/>
+      <am id="am161" player="tileattack/aggregation/mpa" span="w92..w92"/>
+    </nh>
+    
+ 
+    <nh head="w99..w99">
+      
+  
+      <am id="am46" player="dalipipeline201806" span="w98..w108"/>
+      
+  
+      <am id="am47" player="dalipipeline201806" span="w98..w117"/>
+      
+ 
+      <am id="am154" player="tileattack/gold" span="w98..w99"/>
+      <am id="am158" player="tileattack/gold" span="w98..w117"/>
+      <am id="am162" player="tileattack/aggregation/mpa" span="w98..w99"/>
+    </nh>
+    
+ 
+    <nh head="w101..w101">
+      
+  
+      <am id="am48" player="dalipipeline201806" span="w101..w101"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w103..w103">
+      
+  
+      <am id="am49" player="dalipipeline201806" span="w103..w103"/>
+      
+ 
+      <am id="am152" player="tileattack/gold" span="w103..w103"/>
+      <am id="am163" player="tileattack/aggregation/mpa" span="w103..w103"/>
+    </nh>
+    
+ 
+    <nh head="w104..w104">
+      
+  
+      <am id="am50" player="dalipipeline201806" span="w103..w104"/>
+      
+  
+      <am id="am51" player="dalipipeline201806" span="w103..w108"/>
+      
+ 
+      <am id="am155" player="tileattack/gold" span="w104..w104"/>
+      <am id="am164" player="tileattack/aggregation/mpa" span="w104..w104"/>
+    </nh>
+    
+ 
+    <nh head="w107..w107">
+      
+  
+      <am id="am52" player="dalipipeline201806" span="w107..w107"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w108..w108">
+      
+  
+      <am id="am53" player="dalipipeline201806" span="w106..w108"/>
+      
+  
+      <am id="am54" player="dalipipeline201806" span="w107..w108"/>
+      
+ 
+      <am id="am159" player="tileattack/gold" span="w106..w108"/>
+      <am id="am165" player="tileattack/aggregation/mpa" span="w106..w108"/>
+    </nh>
+    
+ 
+    <nh head="w111..w111">
+      
+  
+      <am id="am55" player="dalipipeline201806" span="w111..w111"/>
+      
+ 
+      <am id="am153" player="tileattack/gold" span="w111..w111"/>
+      <am id="am166" player="tileattack/aggregation/mpa" span="w111..w111"/>
+    </nh>
+    
+ 
+    <nh head="w116..w116">
+      
+  
+      <am id="am56" player="dalipipeline201806" span="w116..w116"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w117..w117">
+      
+  
+      <am id="am57" player="dalipipeline201806" span="w114..w117"/>
+      
+  
+      <am id="am58" player="dalipipeline201806" span="w116..w117"/>
+      
+ 
+      <am id="am156" player="tileattack/gold" span="w117..w117"/>
+      <am id="am167" player="tileattack/aggregation/mpa" span="w114..w117"/>
+    </nh>
+    
+ 
+    <nh head="w120..w120">
+      
+  
+      <am id="am59" player="dalipipeline201806" span="w119..w124"/>
+      
+ 
+      <am id="am171" player="tileattack/gold" span="w119..w124"/>
+      <am id="am183" player="tileattack/aggregation/mpa" span="w119..w120"/>
+    </nh>
+    
+ 
+    <nh head="w122..w122">
+      
+  
+      <am id="am60" player="dalipipeline201806" span="w122..w122"/>
+      
+  
+      <am id="am61" player="dalipipeline201806" span="w122..w123"/>
+      
+ 
+      <am id="am184" player="tileattack/aggregation/mpa" span="w122..w122"/>
+    </nh>
+    
+ 
+    <nh head="w124..w124">
+      
+  
+      <am id="am62" player="dalipipeline201806" span="w122..w124"/>
+      
+ 
+      <am id="am173" player="tileattack/gold" span="w122..w124"/>
+      <am id="am185" player="tileattack/aggregation/mpa" span="w122..w124"/>
+    </nh>
+    
+ 
+    <nh head="w129..w129">
+      
+  
+      <am id="am63" player="dalipipeline201806" span="w129..w129"/>
+      
+  
+      <am id="am64" player="dalipipeline201806" span="w129..w131"/>
+      
+ 
+      <am id="am177" player="tileattack/gold" span="w129..w129"/>
+      <am id="am186" player="tileattack/aggregation/mpa" span="w129..w131"/>
+    </nh>
+    
+ 
+    <nh head="w136..w136">
+      
+  
+      <am id="am65" player="dalipipeline201806" span="w133..w136"/>
+      
+  
+      <am id="am66" player="dalipipeline201806" span="w133..w158"/>
+      
+ 
+      <am id="am168" player="tileattack/gold" span="w133..w136"/>
+      <am id="am170" player="tileattack/gold" span="w133..w158"/>
+      <am id="am188" player="tileattack/aggregation/mpa" span="w133..w136"/>
+    </nh>
+    
+ 
+    <nh head="w138..w138">
+      
+  
+      <am id="am67" player="dalipipeline201806" span="w138..w138"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w140..w140">
+      
+  
+      <am id="am68" player="dalipipeline201806" span="w139..w140"/>
+      
+  
+      <am id="am69" player="dalipipeline201806" span="w140..w140"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w141..w141">
+      
+  
+      <am id="am70" player="dalipipeline201806" span="w139..w141"/>
+      
+ 
+      <am id="am169" player="tileattack/gold" span="w139..w141"/>
+      <am id="am189" player="tileattack/aggregation/mpa" span="w139..w141"/>
+    </nh>
+    
+ 
+    <nh head="w145..w145">
+      
+  
+      <am id="am71" player="dalipipeline201806" span="w144..w145"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w147..w147">
+      
+  
+      <am id="am72" player="dalipipeline201806" span="w144..w148"/>
+      
+  
+      <am id="am73" player="dalipipeline201806" span="w146..w147"/>
+      
+  
+      <am id="am74" player="dalipipeline201806" span="w146..w148"/>
+      
+ 
+      <am id="am174" player="tileattack/gold" span="w146..w148"/>
+      <am id="am191" player="tileattack/aggregation/mpa" span="w146..w148"/>
+    </nh>
+    
+ 
+    <nh head="w150..w150">
+      
+  
+      <am id="am75" player="dalipipeline201806" span="w150..w151"/>
+      
+ 
+      <am id="am182" player="tileattack/gold" span="w150..w152"/>
+      <am id="am192" player="tileattack/aggregation/mpa" span="w150..w152"/>
+    </nh>
+    
+ 
+    <nh head="w152..w152">
+      
+  
+      <am id="am76" player="dalipipeline201806" span="w150..w152"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w155..w155">
+      
+  
+      <am id="am77" player="dalipipeline201806" span="w154..w158"/>
+      
+ 
+      <am id="am172" player="tileattack/gold" span="w154..w158"/>
+      <am id="am193" player="tileattack/aggregation/mpa" span="w154..w158"/>
+    </nh>
+    
+ 
+    <nh head="w157..w157">
+      
+  
+      <am id="am78" player="dalipipeline201806" span="w157..w157"/>
+      
+ 
+      <am id="am175" player="tileattack/gold" span="w157..w158"/>
+      <am id="am194" player="tileattack/aggregation/mpa" span="w157..w158"/>
+    </nh>
+    
+ 
+    <nh head="w158..w158">
+      
+  
+      <am id="am79" player="dalipipeline201806" span="w157..w158"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w161..w161">
+      
+  
+      <am id="am80" player="dalipipeline201806" span="w161..w161"/>
+      
+ 
+      <am id="am176" player="tileattack/gold" span="w161..w161"/>
+      <am id="am195" player="tileattack/aggregation/mpa" span="w161..w161"/>
+    </nh>
+    
+ 
+    <nh head="w163..w163">
+      
+  
+      <am id="am81" player="dalipipeline201806" span="w162..w169"/>
+      
+ 
+      <am id="am180" player="tileattack/gold" span="w162..w169"/>
+      <am id="am196" player="tileattack/aggregation/mpa" span="w162..w169"/>
+    </nh>
+    
+ 
+    <nh head="w165..w165">
+      
+  
+      <am id="am82" player="dalipipeline201806" span="w165..w165"/>
+      
+  
+      <am id="am83" player="dalipipeline201806" span="w165..w169"/>
+      
+ 
+      <am id="am178" player="tileattack/gold" span="w165..w169"/>
+    </nh>
+    
+ 
+    <nh head="w168..w168">
+      
+  
+      <am id="am84" player="dalipipeline201806" span="w168..w168"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w169..w169">
+      
+  
+      <am id="am85" player="dalipipeline201806" span="w167..w169"/>
+      
+ 
+      <am id="am181" player="tileattack/gold" span="w167..w169"/>
+      <am id="am197" player="tileattack/aggregation/mpa" span="w167..w169"/>
+    </nh>
+    
+ 
+    <nh head="w173..w173">
+      
+  
+      <am id="am86" player="dalipipeline201806" span="w172..w173"/>
+      
+ 
+      <am id="am198" player="tileattack/gold" span="w172..w173"/>
+      <am id="am209" player="tileattack/aggregation/mpa" span="w172..w173"/>
+    </nh>
+    
+ 
+    <nh head="w175..w175">
+      
+  
+      <am id="am87" player="dalipipeline201806" span="w175..w175"/>
+      
+ 
+      <am id="am205" player="tileattack/gold" span="w175..w175"/>
+      <am id="am210" player="tileattack/aggregation/mpa" span="w175..w175"/>
+    </nh>
+    
+ 
+    <nh head="w179..w179">
+      
+  
+      <am id="am88" player="dalipipeline201806" span="w178..w179"/>
+      
+  
+      <am id="am89" player="dalipipeline201806" span="w178..w185"/>
+      
+ 
+      <am id="am199" player="tileattack/gold" span="w178..w185"/>
+      <am id="am208" player="tileattack/gold" span="w178..w179"/>
+      <am id="am211" player="tileattack/aggregation/mpa" span="w178..w185"/>
+    </nh>
+    
+ 
+    <nh head="w181..w181">
+      
+  
+      <am id="am90" player="dalipipeline201806" span="w181..w185"/>
+      
+ 
+      <am id="am204" player="tileattack/gold" span="w181..w181"/>
+      <am id="am212" player="tileattack/aggregation/mpa" span="w181..w181"/>
+    </nh>
+    
+ 
+    <nh head="w183..w183">
+      
+  
+      <am id="am91" player="dalipipeline201806" span="w183..w183"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w185..w185">
+      
+  
+      <am id="am92" player="dalipipeline201806" span="w183..w185"/>
+      
+ 
+      <am id="am202" player="tileattack/gold" span="w183..w185"/>
+      <am id="am213" player="tileattack/aggregation/mpa" span="w183..w185"/>
+    </nh>
+    
+ 
+    <nh head="w189..w189">
+      
+  
+      <am id="am93" player="dalipipeline201806" span="w188..w189"/>
+      
+ 
+    </nh>
+    
+ 
+    <nh head="w190..w190">
+      
+  
+      <am id="am94" player="dalipipeline201806" span="w187..w190"/>
+      
+  
+      <am id="am95" player="dalipipeline201806" span="w188..w190"/>
+      
+ 
+      <am id="am200" player="tileattack/gold" span="w188..w190"/>
+      <am id="am214" player="tileattack/aggregation/mpa" span="w188..w190"/>
+    </nh>
+    
+ 
+    <nh head="w193..w193">
+      
+  
+      <am id="am96" player="dalipipeline201806" span="w193..w193"/>
+      
+ 
+      <am id="am203" player="tileattack/gold" span="w193..w193"/>
+      <am id="am215" player="tileattack/aggregation/mpa" span="w193..w193"/>
+    </nh>
+    
+ 
+    <nh head="w196..w196">
+      
+  
+      <am id="am97" player="dalipipeline201806" span="w196..w196"/>
+      
+ 
+    </nh>
+    
+
+    <nh head="w144..w144">
+      <am id="am179" player="tileattack/gold" span="w144..w145"/>
+      <am id="am190" player="tileattack/aggregation/mpa" span="w144..w145"/>
+    </nh>
+    <nh head="w131..w131">
+      <am id="am187" player="tileattack/aggregation/mpa" span="w131..w131"/>
+    </nh>
+    <nh head="w194..w194">
+      <am id="am201" player="tileattack/gold" span="w193..w194"/>
+      <am id="am206" player="tileattack/gold" span="w193..w197"/>
+      <am id="am216" player="tileattack/aggregation/mpa" span="w194..w197"/>
+    </nh>
+    <nh head="w197..w197">
+      <am id="am207" player="tileattack/gold" span="w196..w197"/>
+      <am id="am217" player="tileattack/aggregation/mpa" span="w196..w197"/>
+    </nh>
+  </markableLayer>
+  
+
+  <nerLayer>
+    
+ 
+    <nerMarkable end="w2" id="ner1" nerType="organization" start="w2"/>
+    
+ 
+    <nerMarkable end="w4" id="ner2" nerType="time" start="w4"/>
+    
+ 
+    <nerMarkable end="w8" id="ner3" nerType="time" start="w7"/>
+    
+ 
+    <nerMarkable end="w13" id="ner4" nerType="time" start="w7"/>
+    
+ 
+    <nerMarkable end="w13" id="ner5" nerType="abstract" start="w11"/>
+    
+ 
+    <nerMarkable end="w12" id="ner6" nerType="organization" start="w12"/>
+    
+ 
+    <nerMarkable end="w21" id="ner7" nerType="abstract" start="w16"/>
+    
+ 
+    <nerMarkable end="w36" id="ner8" nerType="abstract" start="w16"/>
+    
+ 
+    <nerMarkable end="w21" id="ner9" nerType="abstract" start="w19"/>
+    
+ 
+    <nerMarkable end="w20" id="ner10" nerType="organization" start="w20"/>
+    
+ 
+    <nerMarkable end="w21" id="ner11" nerType="abstract" start="w20"/>
+    
+ 
+    <nerMarkable end="w23" id="ner12" nerType="organization" start="w23"/>
+    
+ 
+    <nerMarkable end="w25" id="ner13" nerType="abstract" start="w23"/>
+    
+ 
+    <nerMarkable end="w29" id="ner14" nerType="unknown" start="w23"/>
+    
+ 
+    <nerMarkable end="w29" id="ner15" nerType="unknown" start="w29"/>
+    
+ 
+    <nerMarkable end="w35" id="ner16" nerType="abstract" start="w34"/>
+    
+ 
+    <nerMarkable end="w36" id="ner17" nerType="abstract" start="w34"/>
+    
+ 
+    <nerMarkable end="w35" id="ner18" nerType="abstract" start="w35"/>
+    
+ 
+    <nerMarkable end="w39" id="ner19" nerType="person" start="w39"/>
+    
+ 
+    <nerMarkable end="w41" id="ner20" nerType="person" start="w41"/>
+    
+ 
+    <nerMarkable end="w42" id="ner21" nerType="abstract" start="w41"/>
+    
+ 
+    <nerMarkable end="w45" id="ner22" nerType="abstract" start="w45"/>
+    
+ 
+    <nerMarkable end="w49" id="ner23" nerType="abstract" start="w48"/>
+    
+ 
+    <nerMarkable end="w54" id="ner24" nerType="abstract" start="w52"/>
+    
+ 
+    <nerMarkable end="w63" id="ner25" nerType="abstract" start="w52"/>
+    
+ 
+    <nerMarkable end="w63" id="ner26" nerType="abstract" start="w58"/>
+    
+ 
+    <nerMarkable end="w60" id="ner27" nerType="abstract" start="w59"/>
+    
+ 
+    <nerMarkable end="w63" id="ner28" nerType="abstract" start="w59"/>
+    
+ 
+    <nerMarkable end="w60" id="ner29" nerType="abstract" start="w60"/>
+    
+ 
+    <nerMarkable end="w63" id="ner30" nerType="abstract" start="w62"/>
+    
+ 
+    <nerMarkable end="w65" id="ner31" nerType="person" start="w65"/>
+    
+ 
+    <nerMarkable end="w88" id="ner32" nerType="unknown" start="w70"/>
+    
+ 
+    <nerMarkable end="w73" id="ner33" nerType="abstract" start="w72"/>
+    
+ 
+    <nerMarkable end="w88" id="ner34" nerType="unknown" start="w72"/>
+    
+ 
+    <nerMarkable end="w75" id="ner35" nerType="abstract" start="w75"/>
+    
+ 
+    <nerMarkable end="w77" id="ner36" nerType="abstract" start="w77"/>
+    
+ 
+    <nerMarkable end="w79" id="ner37" nerType="abstract" start="w78"/>
+    
+ 
+    <nerMarkable end="w81" id="ner38" nerType="unknown" start="w78"/>
+    
+ 
+    <nerMarkable end="w82" id="ner39" nerType="abstract" start="w82"/>
+    
+ 
+    <nerMarkable end="w85" id="ner40" nerType="organization" start="w84"/>
+    
+ 
+    <nerMarkable end="w86" id="ner41" nerType="organization" start="w84"/>
+    
+ 
+    <nerMarkable end="w88" id="ner42" nerType="abstract" start="w84"/>
+    
+ 
+    <nerMarkable end="w88" id="ner43" nerType="abstract" start="w87"/>
+    
+ 
+    <nerMarkable end="w90" id="ner44" nerType="time" start="w90"/>
+    
+ 
+    <nerMarkable end="w92" id="ner45" nerType="organization" start="w92"/>
+    
+ 
+    <nerMarkable end="w108" id="ner46" nerType="concrete" start="w98"/>
+    
+ 
+    <nerMarkable end="w117" id="ner47" nerType="organization" start="w98"/>
+    
+ 
+    <nerMarkable end="w101" id="ner48" nerType="abstract" start="w101"/>
+    
+ 
+    <nerMarkable end="w103" id="ner49" nerType="person" start="w103"/>
+    
+ 
+    <nerMarkable end="w104" id="ner50" nerType="person" start="w103"/>
+    
+ 
+    <nerMarkable end="w108" id="ner51" nerType="person" start="w103"/>
+    
+ 
+    <nerMarkable end="w108" id="ner52" nerType="abstract" start="w106"/>
+    
+ 
+    <nerMarkable end="w107" id="ner53" nerType="abstract" start="w107"/>
+    
+ 
+    <nerMarkable end="w108" id="ner54" nerType="abstract" start="w107"/>
+    
+ 
+    <nerMarkable end="w111" id="ner55" nerType="person" start="w111"/>
+    
+ 
+    <nerMarkable end="w117" id="ner56" nerType="unknown" start="w114"/>
+    
+ 
+    <nerMarkable end="w116" id="ner57" nerType="abstract" start="w116"/>
+    
+ 
+    <nerMarkable end="w117" id="ner58" nerType="abstract" start="w116"/>
+    
+ 
+    <nerMarkable end="w124" id="ner59" nerType="abstract" start="w119"/>
+    
+ 
+    <nerMarkable end="w122" id="ner60" nerType="organization" start="w122"/>
+    
+ 
+    <nerMarkable end="w123" id="ner61" nerType="abstract" start="w122"/>
+    
+ 
+    <nerMarkable end="w124" id="ner62" nerType="abstract" start="w122"/>
+    
+ 
+    <nerMarkable end="w129" id="ner63" nerType="abstract" start="w129"/>
+    
+ 
+    <nerMarkable end="w131" id="ner64" nerType="unknown" start="w129"/>
+    
+ 
+    <nerMarkable end="w136" id="ner65" nerType="time" start="w133"/>
+    
+ 
+    <nerMarkable end="w158" id="ner66" nerType="time" start="w133"/>
+    
+ 
+    <nerMarkable end="w138" id="ner67" nerType="abstract" start="w138"/>
+    
+ 
+    <nerMarkable end="w140" id="ner68" nerType="abstract" start="w139"/>
+    
+ 
+    <nerMarkable end="w141" id="ner69" nerType="abstract" start="w139"/>
+    
+ 
+    <nerMarkable end="w140" id="ner70" nerType="organization" start="w140"/>
+    
+ 
+    <nerMarkable end="w145" id="ner71" nerType="numerical" start="w144"/>
+    
+ 
+    <nerMarkable end="w148" id="ner72" nerType="numerical" start="w144"/>
+    
+ 
+    <nerMarkable end="w147" id="ner73" nerType="time" start="w146"/>
+    
+ 
+    <nerMarkable end="w148" id="ner74" nerType="time" start="w146"/>
+    
+ 
+    <nerMarkable end="w151" id="ner75" nerType="numerical" start="w150"/>
+    
+ 
+    <nerMarkable end="w152" id="ner76" nerType="numerical" start="w150"/>
+    
+ 
+    <nerMarkable end="w158" id="ner77" nerType="time" start="w154"/>
+    
+ 
+    <nerMarkable end="w157" id="ner78" nerType="time" start="w157"/>
+    
+ 
+    <nerMarkable end="w158" id="ner79" nerType="time" start="w157"/>
+    
+ 
+    <nerMarkable end="w161" id="ner80" nerType="organization" start="w161"/>
+    
+ 
+    <nerMarkable end="w169" id="ner81" nerType="unknown" start="w162"/>
+    
+ 
+    <nerMarkable end="w165" id="ner82" nerType="abstract" start="w165"/>
+    
+ 
+    <nerMarkable end="w169" id="ner83" nerType="abstract" start="w165"/>
+    
+ 
+    <nerMarkable end="w169" id="ner84" nerType="abstract" start="w167"/>
+    
+ 
+    <nerMarkable end="w168" id="ner85" nerType="abstract" start="w168"/>
+    
+ 
+    <nerMarkable end="w173" id="ner86" nerType="abstract" start="w172"/>
+    
+ 
+    <nerMarkable end="w175" id="ner87" nerType="person" start="w175"/>
+    
+ 
+    <nerMarkable end="w179" id="ner88" nerType="abstract" start="w178"/>
+    
+ 
+    <nerMarkable end="w185" id="ner89" nerType="abstract" start="w178"/>
+    
+ 
+    <nerMarkable end="w185" id="ner90" nerType="abstract" start="w181"/>
+    
+ 
+    <nerMarkable end="w183" id="ner91" nerType="abstract" start="w183"/>
+    
+ 
+    <nerMarkable end="w185" id="ner92" nerType="abstract" start="w183"/>
+    
+ 
+    <nerMarkable end="w190" id="ner93" nerType="abstract" start="w187"/>
+    
+ 
+    <nerMarkable end="w189" id="ner94" nerType="abstract" start="w188"/>
+    
+ 
+    <nerMarkable end="w190" id="ner95" nerType="abstract" start="w188"/>
+    
+ 
+    <nerMarkable end="w193" id="ner96" nerType="person" start="w193"/>
+    
+ 
+    <nerMarkable end="w196" id="ner97" nerType="abstract" start="w196"/>
+    
+
+  </nerLayer>
+  
+
+</dalidoc>
